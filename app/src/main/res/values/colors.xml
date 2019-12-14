@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorLogoApp">#ee7af0</color>
+    <color name="colorGray">#838a85</color>
+    <color name="ripple_efect">#daf5f7</color>
+    <color name="ripple_efect_reg">#daf5f7</color>
+
+</resources>

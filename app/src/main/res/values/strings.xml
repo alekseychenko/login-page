@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_logo">مَايِنْتْس،</string>
+    <string name="name_dev">ITstep academy</string>
+    <string name="sin_in">Sing in</string>
+    <string name="registration">Registration</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+</resources>
